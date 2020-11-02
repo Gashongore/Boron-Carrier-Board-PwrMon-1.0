@@ -1,2 +1,4 @@
-# Particle-Boron-Carrier-v1.2a
- Updated and tested version of the carrier board.
+# Boron-Carrier-Board-PwrWon-1.0
+1. modified Particle Boron-Carrier-Board for Power Monitoring
+2. It is using all analog pins
+
