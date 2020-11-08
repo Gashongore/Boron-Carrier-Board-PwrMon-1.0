@@ -184,7 +184,7 @@
 JP7 must be closed for Argon &amp;
 Xenon. Not required for Boron</text>
 <text x="72.8726" y="34.671" size="0.8128" layer="26" font="vector" rot="MR0">OFF</text>
-<text x="86.024390625" y="17.429253125" size="0.8128" layer="26" font="vector" rot="MR270">www.kumva.io</text>
+<text x="85.9337125" y="16.096284375" size="0.8128" layer="26" font="vector" rot="MR270">www.kumva.io</text>
 <rectangle x1="85.641759375" y1="2.5988" x2="85.987196875" y2="2.6076875" layer="23"/>
 <rectangle x1="85.697640625" y1="2.607690625" x2="85.923696875" y2="2.616834375" layer="23"/>
 <rectangle x1="85.778921875" y1="2.616834375" x2="85.804321875" y2="2.625978125" layer="23"/>
